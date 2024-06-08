@@ -1,5 +1,7 @@
 # Craftable Uncraftables
 
+Minecraft Versions supported: ``1.20.0``, ``1.20.1``
+
 Making usually uncraftable items into craftable items.
 
 #### Crafting recipes added
