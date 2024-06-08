@@ -1,6 +1,7 @@
 {
   "pack": {
     "pack_format": 15,
+    "version": [1, 0, 1],
     "description": "CraftableUncraftables"
   }
 }
