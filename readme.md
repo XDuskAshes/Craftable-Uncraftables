@@ -8,6 +8,10 @@ Making usually uncraftable items into craftable items.
 - Saddle
 - Bell
 - Totem of Undying
+- Crying Obsidian
+- Mud
+- Mycelium
+- Sand
 
 ## How to install
 
