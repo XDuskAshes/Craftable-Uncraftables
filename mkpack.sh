@@ -10,7 +10,7 @@ echo "Changing to source directory: $SRC_DIR"
 if cd "$SRC_DIR"; then
     echo "Creating zip file: $ZIP_FILE"
 
-    if tar -a -c -v -f "../$ZIP_FILE" *; then
+    if tar -acvf "../$ZIP_FILE" *; then
         echo "Zip file created successfully: $ZIP_FILE"
     else
         echo "Failed to create zip file."

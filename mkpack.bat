@@ -11,7 +11,7 @@ if errorlevel 1 (
     exit /b 1
 )
 
-tar.exe -a -c -v -f "../%ZIP_FILE%" *
+tar.exe -acvf "../%ZIP_FILE%" *
 
 popd
 
