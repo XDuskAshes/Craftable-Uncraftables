@@ -6,12 +6,16 @@ Making usually uncraftable items into craftable items.
 
 #### Crafting recipes added
 - Saddle
+- Horse Armors
+- Chainmail Armor
 - Bell
 - Totem of Undying
 - Crying Obsidian
 - Mud
 - Mycelium
 - Sand
+- String
+- Wool
 
 ## How to install
 

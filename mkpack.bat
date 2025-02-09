@@ -1,6 +1,6 @@
 @echo off
 
-set VER=1-0-1
+set VER=1-0-2
 
 set SRC_DIR=src
 set ZIP_FILE=craftableuncraftables.%VER%.zip

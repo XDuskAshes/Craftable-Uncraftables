@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VER="1-0-1"
+VER="1-0-2"
 
 SRC_DIR="src"
 ZIP_FILE="craftableuncraftables.$VER.zip"
